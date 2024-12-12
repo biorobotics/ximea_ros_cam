@@ -1,0 +1,20 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/mfiur/shri_ws/devel/lib/python3/dist-packages",
+        "/home/mfiur/blaser_ws/devel/lib/python3/dist-packages",
+        "/home/mfiur/workspaces/ur_ws/devel/lib/python3/dist-packages",
+        "/home/mfiur/workspaces/rtx_ws/devel/lib/python3/dist-packages",
+        "/home/mfiur/workspaces/old_blaser_ws/devel/lib/python3/dist-packages",
+        "/home/mfiur/test_blaser_calib_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/mfiur/shri_ws/devel/lib/python3/dist-packages",
+        "/home/mfiur/blaser_ws/devel/lib/python3/dist-packages",
+        "/home/mfiur/workspaces/ur_ws/devel/lib/python3/dist-packages",
+        "/home/mfiur/workspaces/rtx_ws/devel/lib/python3/dist-packages",
+        "/home/mfiur/workspaces/old_blaser_ws/devel/lib/python3/dist-packages",
+        "/home/mfiur/test_blaser_calib_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}

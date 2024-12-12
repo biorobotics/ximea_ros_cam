@@ -1,0 +1,32 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/mfiur/shri_ws/devel/include/**",
+        "/home/mfiur/blaser_ws/devel/include/**",
+        "/home/mfiur/workspaces/ur_ws/devel/include/**",
+        "/home/mfiur/workspaces/rtx_ws/devel/include/**",
+        "/home/mfiur/workspaces/old_blaser_ws/devel/include/**",
+        "/home/mfiur/test_blaser_calib_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/mfiur/workspaces/rtx_ws/src/UR_arm_camera_calibration/apriltag_ros/apriltag_ros/include/**",
+        "/home/mfiur/workspaces/rtx_ws/src/blaser/include/**",
+        "/home/mfiur/shri_ws/src/blaser_ros/include/**",
+        "/home/mfiur/shri_ws/src/camera_model/include/**",
+        "/home/mfiur/workspaces/rtx_ws/src/UR_arm_camera_calibration/multi_calibration/include/**",
+        "/home/mfiur/shri_ws/src/ximea_ros_cam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
